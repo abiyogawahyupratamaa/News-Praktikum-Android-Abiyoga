@@ -1,6 +1,3 @@
 # News-Praktikum-Abiyoga
-npm i -g expo-cli
-.
-.
-.
-npm install
+1. npm i -g expo-cli
+2. npm install
